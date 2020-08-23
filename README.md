@@ -1,2 +1,2 @@
-# NewChatogram_mini
-NewChatogram
+# chatogram_group
+chatogram_group
